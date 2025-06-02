@@ -17,7 +17,6 @@ A simple C++ terminal-based flight reservation system that lets users create, ma
 ### 🗂️ Features
 
 * 🛫 **Create New Flight**
-  
   Add domestic or international flights by selecting from a list of valid destinations.
 
 * 📥 **Manage Booking**
