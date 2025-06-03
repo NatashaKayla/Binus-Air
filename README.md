@@ -1,6 +1,6 @@
 ## ✈️ BinusAir - Terminal-Based Flight Booking System (C)
 
-A simple C++ terminal-based flight reservation system that lets users create, manage, and view flight bookings for both domestic and international routes. Designed for learning purposes, this project demonstrates modular programming, data handling, and menu navigation using standard C++.
+A simple C terminal-based flight reservation system that lets users create, manage, and view flight bookings for both domestic and international routes. Designed for learning purposes, this project demonstrates modular programming, data handling, and menu navigation using standard C.
 
 ---
 
